@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "defaultName": "Распаячная коробка",
+        "description": "Распаячная коробка",
+        "version": "0.0.1",
+        "author": "Эпов А.Г."
+    },
+    "styleParameters": [
+        {
+            "name": "General",
+            "text": "Общие",
+            "params": [
+                {
+                    "name": "Material",
+                    "text": "Материал",
+                    "type": "Id",
+                    "entityTypeId": "0abcb18f-0aaf-4509-bf89-5c5fad9d5d8b"
+                }
+            ]
+        }
+    ],
+    "ports": [
+        
+    ]
+}
